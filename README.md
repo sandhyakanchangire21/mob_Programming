@@ -2,6 +2,7 @@
 In that project mention some method releted with api testing like create, update, retrive data etc from sever
 ## tools used in project
 IDE Eclipse ide
+java 1.8
 Rest Assured verison 5.3.0
 TestNG version 7.6.1
 cucumber-java version 7.9.0
